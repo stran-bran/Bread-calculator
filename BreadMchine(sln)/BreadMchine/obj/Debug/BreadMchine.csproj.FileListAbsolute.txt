@@ -1,0 +1,10 @@
+E:\prject\BreadMchine\BreadMchine\bin\Debug\BreadMchine.exe.config
+E:\prject\BreadMchine\BreadMchine\bin\Debug\BreadMchine.exe
+E:\prject\BreadMchine\BreadMchine\bin\Debug\BreadMchine.pdb
+E:\prject\BreadMchine\BreadMchine\obj\Debug\BreadMchine.csprojAssemblyReference.cache
+E:\prject\BreadMchine\BreadMchine\obj\Debug\BreadMchine.Form1.resources
+E:\prject\BreadMchine\BreadMchine\obj\Debug\BreadMchine.Properties.Resources.resources
+E:\prject\BreadMchine\BreadMchine\obj\Debug\BreadMchine.csproj.GenerateResource.cache
+E:\prject\BreadMchine\BreadMchine\obj\Debug\BreadMchine.csproj.CoreCompileInputs.cache
+E:\prject\BreadMchine\BreadMchine\obj\Debug\BreadMchine.exe
+E:\prject\BreadMchine\BreadMchine\obj\Debug\BreadMchine.pdb
